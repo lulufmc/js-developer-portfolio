@@ -39,13 +39,18 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Criando um classificador de Rankeada",
+      "url": "https://github.com/lulufmc/DIO-Project-ClassificadorDeRankeada",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Criando um classificador de nível de herói",
+      "url": "https://github.com/lulufmc/DIO-Project-NivelDeHeroi",
+      "github": true
+    },
+    {
+      "name": "Criando classes de heróis",
+      "url": "https://github.com/lulufmc/DIO-Project-ClasseDeHeroi",
       "github": true
     }
   ],
