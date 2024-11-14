@@ -1,7 +1,7 @@
 {
   "name": "Luiz Felipe",
   "photo": "https://avatars.githubusercontent.com/u/147415533?v=4",
-  "job": "Freelancer",
+  "job": "Desenvolvedor Front-End",
   "location": "Rio de Janeiro - RJ",
   "phone": "(21)96857-0438",
   "email": "lfelipe1207@gmail.com",
@@ -20,7 +20,7 @@
         "logo": "https://raw.githubusercontent.com/lulufmc/js-developer-portfolio/refs/heads/main/data/imgs/js.png"
       },
       {
-        "name": "React",
+        "name": "Python",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/python.png"
       }
     ],
